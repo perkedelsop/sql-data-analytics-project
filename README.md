@@ -1,2 +1,3 @@
 # sql-data-analytics-project
-Comprehensive project fro data exploration, analtics, and reporting
+This is a portofolio project for practicing a comprehensive data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more. 
+==============================================================================================
